@@ -1,0 +1,6 @@
+file: intro
+sections:
+- file: authors
+- file: reviews/intro
+  sections:
+  - file: reviews/redout

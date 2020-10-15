@@ -1,9 +1,13 @@
 body {
-    background-color: #efefef;
+    background-color: #333333;
 }
 
 main {
     background-color: #ffffff;
+}
+
+.main-image-section {
+    margin-left: -50px!important;
 }
 
 .table p {

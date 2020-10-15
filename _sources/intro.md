@@ -1,5 +1,19 @@
 # XMN Games
 
-## Redout
+```{admonition} Nintendo Switch Game Review: Redout
+:class: info
+[Check the new review about Redout game!](/nintendo-switch-reviews/redout)
 
-Check the new review about Redout game! 
+{badge}`nintendo-switch,badge-primary`
+{badge}`racing-game,badge-primary`
+```
+
+
+```{admonition} Nintendo Switch Game Review: Mario Kart 8
+:class: info
+
+Coming soon!
+
+{badge}`nintendo-switch,badge-primary`
+{badge}`racing-game,badge-primary`
+```

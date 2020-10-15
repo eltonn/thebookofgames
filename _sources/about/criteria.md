@@ -1,6 +1,4 @@
-# Reviews
-
-## Criterias
+## Criteria
 
 The criterias for the game review is grouped according to the game category and also shared a general criteria.
 

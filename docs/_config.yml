@@ -3,17 +3,19 @@
 title                       : Game reviews  # The title of the book. Will be placed in the left navbar.
 author                      : XMN Games Team  # The author of the book
 copyright                   : "2020"  # Copyright year to be placed in the footer
-logo                        : "logo.png"  # A path to the book logo
+logo                        : "_static/images/logo.png"  # A path to the book logo
 
 html:
   favicon                   : ""  # A path to a favicon image
   extra_footer              : ""  # Will be displayed underneath the footer.
   google_analytics_id       : ""  # A GA id that can be used to track book views.
-  use_edit_page_button      : true
-  use_issues_button         : true
-  use_repository_button     : true
-  home_page_in_navbar       : false  # Whether to include your home page in the left Navigation Bar
+  use_edit_page_button      : false
+  use_issues_button         : false
+  use_repository_button     : false
+  home_page_in_navbar       : true  # Whether to include your home page in the left Navigation Bar
   baseurl                   : ""  # The base URL where your book will be hosted. Used for creating image previews and social links. e.g.: https://mypage.com/mybook/
+  extra_navbar              : ""
+  extra_footer              : Powered by <a href="https://jupyterbook.org">Jupyter Book</a>
 
 repository:
   url                       : https://github.com/xmnlab/xmngames # The URL to your book's repository

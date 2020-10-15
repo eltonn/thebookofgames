@@ -1,0 +1,39 @@
+body {
+    background-color: #efefef;
+}
+
+main {
+    background-color: #ffffff;
+}
+
+.table p {
+    height: 0px!important;
+}
+
+.bd-sidebar {
+    background-color: #ffc800;
+}
+
+li.toctree-l1 {
+    font-weight: bold;
+    font-size: 16px!important;
+    padding-left: 10px!important;
+}
+
+li.toctree-l1:hover {
+    background-color: #ffffff;
+}
+
+.prev-next-bottom a.left-prev, .prev-next-bottom a.right-next {
+    padding: 5px 10px;
+    background-color: #efefef;
+}
+
+#dropdown-buttons-trigger {
+    /* visibility: hidden; */
+    display: none;
+}
+
+.full-screen-button {
+    display: none;
+}

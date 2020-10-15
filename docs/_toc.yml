@@ -1,6 +1,9 @@
 file: intro
 sections:
-- file: authors
-- file: reviews/intro
+- file: about/intro
   sections:
-  - file: reviews/redout
+  - file: about/authors
+  - file: about/criteria
+- file: nintendo-switch-reviews/intro
+  sections:
+  - file: nintendo-switch-reviews/redout

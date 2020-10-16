@@ -1,5 +1,9 @@
 # Redout
 
+*TODO: change the text*
+
+Redout is a futuristic racing video game developed and published by Italian studio 34BigThings, and co-published by Nicalis and 505 Games.[1] It is inspired by racing games such as F-Zero, Wipeout, Rollcage, and POD as stated on the game page on Steam.
+
 ```{image} /_static/nintendo-switch/redout.jpg
 :alt: Nintendo Switch
 :class: main-image-section
@@ -8,50 +12,57 @@
 ```
 *TODO: change this photo*
 
-## About the game
-
-*TODO: change the text*
-
-Redout is a futuristic racing video game developed and published by Italian studio 34BigThings, and co-published by Nicalis and 505 Games.[1] It is inspired by racing games such as F-Zero, Wipeout, Rollcage, and POD as stated on the game page on Steam.
-
 The game was released on Microsoft Windows on September 2, 2016, while PlayStation 4 and Xbox One got a late August, 2017 release.[2] The Nintendo Switch port was originally slated for a Spring 2017 release, but got delayed and was re-announced for a May 14, 2019 release.[3]
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9BXIY7_lstk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe src="https://www.youtube.com/embed/9BXIY7_lstk?controls=0"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+    allowfullscreen
+    width="100%"
+    height="315"
+></iframe>
 
 
-## Evaluation table
+## Evaluation
 
 ````{panels}
 
-|General Criteria|Score (0 - 5 stars)|
+|General Criteria|Score|
 |:-------|-----|
-|Fun|<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>|
-|Playability|<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>|
-|Graphics|<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>|
-|Soundtrack|<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>|
-|Originality|<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>|
-|Challenging|<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>|
-|Story|<i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i>|
-|On-line mode experience| <i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i>* |
+|Fun|<span class="5_star"></span>|
+|Playability|<span class="5_star"></span>|
+|Graphics|<span class="5_star"></span>|
+|Soundtrack|<span class="5_star"></span>|
+|Originality|<span class="5_star"></span>|
+|Challenging|<span class="5_star"></span>|
+|Story|<span class="0_star"></span>|
+|On-line mode experience| <span class="0_star"></span>* |
 
 ---
 
-|Racing Game Criteria|Score (0 - 5 stars)|
+|Racing Game Criteria|Score|
 |:-------|-----|
-|Vehicles available|<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star-half-alt"></i> |
-|Vehicles power-ups available|<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>|
-|Tracks available|<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>|
-|Racing modes available|<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>|
-|Multiplayer mode experience| <i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i> |
+|Vehicles available|<span class="4_half_star"></span> |
+|Vehicles power-ups available|<span class="5_star"></span>|
+|Tracks available|<span class="5_star"></span>|
+|Racing modes available|<span class="5_star"></span>|
+|Multiplayer mode experience| <span class="0_star"></span>** |
 
 ````
+
+```{note}
+`*` I tried some times to play online, but there wasn't anyone available for play online.
+
+`**` There is no multiplayer mode available.
+```
 
 ```{admonition} Summary
 :class: info
 
 Coming soon!
 
-<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star-half-alt"></i>
+<span class="4_half_star"></span>
 ```
 
 

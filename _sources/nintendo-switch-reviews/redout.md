@@ -23,6 +23,17 @@ The game was released on Microsoft Windows on September 2, 2016, while PlayStati
     height="315"
 ></iframe>
 
+|General Information||
+|:-------|-----|
+|Available on|Playstation 4|
+|Playability|<span class="star_5"></span>|
+|Graphics|<span class="star_5"></span>|
+|Soundtrack|<span class="star_5"></span>|
+|Originality|<span class="star_5"></span>|
+|Challenging|<span class="star_5"></span>|
+|Story|<span class="star_0"></span>|
+|On-line mode experience| <span class="star_0"></span>* |
+
 
 ## Evaluation
 
@@ -30,24 +41,24 @@ The game was released on Microsoft Windows on September 2, 2016, while PlayStati
 
 |General Criteria|Score|
 |:-------|-----|
-|Fun|<span class="5_star"></span>|
-|Playability|<span class="5_star"></span>|
-|Graphics|<span class="5_star"></span>|
-|Soundtrack|<span class="5_star"></span>|
-|Originality|<span class="5_star"></span>|
-|Challenging|<span class="5_star"></span>|
-|Story|<span class="0_star"></span>|
-|On-line mode experience| <span class="0_star"></span>* |
+|Fun|<span class="star_5"></span>|
+|Playability|<span class="star_5"></span>|
+|Graphics|<span class="star_5"></span>|
+|Soundtrack|<span class="star_5"></span>|
+|Originality|<span class="star_5"></span>|
+|Challenging|<span class="star_5"></span>|
+|Story|<span class="star_0"></span>|
+|On-line mode experience| <span class="star_0"></span>* |
 
 ---
 
 |Racing Game Criteria|Score|
 |:-------|-----|
-|Vehicles available|<span class="4_half_star"></span> |
-|Vehicles power-ups available|<span class="5_star"></span>|
-|Tracks available|<span class="5_star"></span>|
-|Racing modes available|<span class="5_star"></span>|
-|Multiplayer mode experience| <span class="0_star"></span>** |
+|Vehicles available|<span class="star_5"></span> |
+|Vehicles power-ups available|<span class="star_5"></span>|
+|Tracks available|<span class="star_5"></span>|
+|Racing modes available|<span class="star_5"></span>|
+|Multiplayer mode experience| <span class="star_0"></span>** |
 
 ````
 
@@ -70,3 +81,4 @@ Coming soon!
 
 * [wiki](https://en.wikipedia.org/wiki/Redout_(video_game))
 * [switchplayer redout review](https://switchplayer.net/2019/06/09/redout-lightspeed-edition-review/)
+* [opencritic](https://opencritic.com/game/1801/redout)

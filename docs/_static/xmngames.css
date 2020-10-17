@@ -33,3 +33,18 @@ li.toctree-l1:hover {
 .full-screen-button {
     display: none;
 }
+
+.star_0,
+.star_1,
+.star_2,
+.star_3,
+.star_4,
+.star_5,
+.star_half,
+.star_1_half
+.star_2_half
+.star_3_half
+.star_4_half
+{
+    color: #ffc107;
+}

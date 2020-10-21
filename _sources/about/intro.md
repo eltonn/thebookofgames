@@ -1,4 +1,4 @@
-# About XMN Games
+# About The Book of Games
 
-XMN Games is a community for game reviewing that aims to provide detailed
+The Book of Games is a community for game reviewing that aims to provide interesting
 information about games.

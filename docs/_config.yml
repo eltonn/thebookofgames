@@ -1,7 +1,7 @@
 
 # Book settings
-title                       : Game reviews  # The title of the book. Will be placed in the left navbar.
-author                      : XMN Games Team  # The author of the book
+title                       : The Book of Games  # The title of the book. Will be placed in the left navbar.
+author                      : The Book of Games Team  # The author of the book
 copyright                   : "2020"  # Copyright year to be placed in the footer
 logo                        : "_static/images/logo.png"  # A path to the book logo
 
@@ -18,6 +18,6 @@ html:
   extra_footer              : Powered by <a href="https://jupyterbook.org">Jupyter Book</a>
 
 repository:
-  url                       : https://github.com/xmnlab/xmngames # The URL to your book's repository
+  url                       : https://github.com/xmnlab/thebookofgames # The URL to your book's repository
   path_to_book              : ""    # A path to your book's folder, relative to the repository root.
   branch                    : main  # Which branch of the repository should be used when creating links

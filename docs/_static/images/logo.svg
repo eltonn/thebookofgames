@@ -25,9 +25,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.979899"
-     inkscape:cx="320.5611"
-     inkscape:cy="867.30376"
+     inkscape:zoom="0.35"
+     inkscape:cx="108.26286"
+     inkscape:cy="382.85714"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -52,16 +52,20 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1">
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:25.4px;line-height:1.25;font-family:Uroob;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;-inkscape-font-specification:Uroob;font-stretch:normal;font-variant:normal;"
-       x="42.333332"
-       y="57.363094"
-       id="text817"><tspan
-         sodipodi:role="line"
-         id="tspan815"
-         x="42.333332"
-         y="57.363094"
-         style="stroke-width:0.26458332;-inkscape-font-specification:Uroob;font-family:Uroob;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:25.4px;">XMN GAMES</tspan></text>
+    <path
+       id="path873"
+       d="M 206.13651,197.36077 V 45.952961 c 0,-5.993229 -4.82162,-10.814844 -10.81485,-10.814844 H 47.518796 c -23.882786,0 -43.2593764,19.376589 -43.2593764,43.259375 V 222.59542 c 0,23.88276 19.3765904,43.25937 43.2593764,43.25937 H 195.32166 c 5.99323,0 10.81485,-4.82163 10.81485,-10.81484 v -7.20991 c 0,-3.37963 -1.57717,-6.44384 -4.01051,-8.42657 -1.89259,-6.93952 -1.89259,-26.72167 0,-33.66119 2.43334,-1.93766 4.01051,-5.00188 4.01051,-8.38151 z m -30.0112,39.65443 H 47.518796 c -7.975956,0 -14.419798,-6.44385 -14.419798,-14.41978 0,-7.9309 6.488907,-14.4198 14.419798,-14.4198 H 176.12531 c -0.85617,7.70557 -0.85617,21.13401 0,28.83958 z"
+       inkscape:connector-curvature="0"
+       style="fill:currentColor;stroke-width:0.45061848"
+       sodipodi:nodetypes="ssssssssssccscssscc"
+       inkscape:export-xdpi="22.018349"
+       inkscape:export-ydpi="22.018349" />
+    <path
+       id="path884"
+       d="M 154.27478,77.882586 H 62.843586 A 45.705588,45.705588 0 1 0 95.477381,155.5821 H 121.62099 A 45.705588,45.705588 0 1 0 154.27478,77.882586 Z M 87.981661,127.01609 a 3.4279192,3.4279192 0 0 1 -3.42792,3.42793 H 69.69943 v 14.85432 a 3.4279192,3.4279192 0 0 1 -3.427914,3.42791 h -6.855844 a 3.4279192,3.4279192 0 0 1 -3.427914,-3.42791 V 130.44402 H 41.133443 a 3.4279192,3.4279192 0 0 1 -3.427931,-3.42793 v -6.85582 a 3.4279192,3.4279192 0 0 1 3.427931,-3.42794 h 14.854315 v -14.85431 a 3.4279192,3.4279192 0 0 1 3.427914,-3.427913 h 6.855844 a 3.4279192,3.4279192 0 0 1 3.427914,3.427913 v 14.85431 h 14.854311 a 3.4279192,3.4279192 0 0 1 3.42792,3.42794 z m 61.702569,21.71016 a 11.426397,11.426397 0 1 1 11.42639,-11.4264 11.426397,11.426397 0 0 1 -11.42639,11.4264 z m 18.28223,-27.42334 a 11.426397,11.426397 0 1 1 11.42638,-11.4264 11.426397,11.426397 0 0 1 -11.42638,11.4264 z"
+       inkscape:connector-curvature="0"
+       style="fill:#ff0000;stroke-width:0.28565991"
+       inkscape:export-xdpi="22.018349"
+       inkscape:export-ydpi="22.018349" />
   </g>
 </svg>

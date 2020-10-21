@@ -14,6 +14,6 @@ The logo was created using the following [font-awesome][font awesome] fonts:
 - https://fontawesome.com/icons/book?style=solid
 
 
-[jupyter-book] https://jupyter-book.org "Jupyter Book"
-[github-pages] https://pages.github.com/ "GitHub Pages"
-[font-awesome] https://fontawesome.com/ "Font Awesome"
+[jupyter-book]: https://jupyter-book.org "Jupyter Book"
+[github-pages]: https://pages.github.com/ "GitHub Pages"
+[font-awesome]: https://fontawesome.com/ "Font Awesome"

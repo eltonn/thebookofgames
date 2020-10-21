@@ -4,6 +4,7 @@ sections:
   sections:
   - file: about/authors
   - file: about/criteria
+  - file: about/contributing
 - file: game-reviews/intro
   sections:
   - file: game-reviews/redout

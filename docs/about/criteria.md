@@ -27,7 +27,7 @@ a good amount of knowledge and experience of game.
 Check more information about that on section {ref}`content:evaluation-tables`.
 - Ensure to add original text and images that don't have any license issue. Also, ensure to add
 the credits and references to the any external material properly.
-- Always add information about the company that developed the game and age restriction.
+- Always, when possible, add information about the company that developed the game, the game engine used and age restriction.
 
 (content:evaluation-tables)=
 ## Evaluation tables

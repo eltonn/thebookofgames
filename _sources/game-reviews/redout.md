@@ -1,4 +1,4 @@
-# Redout
+# Redout: Lightspeed Edition
 
 According to the official webpage, *Redout is a tribute to the old racing monsters such as F-Zero, WipeOut, Rollcage, and POD*, it was developed by [34BigThings][34bigthings], and co-published by [Nicalis][nicalis] and [505 Games][505games].
 
@@ -9,7 +9,7 @@ According to the official webpage, *Redout is a tribute to the old racing monste
 *Source: [34BigThings Redout Wallpapers][34bigthings-redout-wallpapers]*
 
 
-According to the official webpage, *Redout is a tribute to the old racing monsters such as F-Zero, WipeOut, Rollcage, and POD*, it was developed by [34BigThings][34bigthings], and co-published by [Nicalis][nicalis] and [505 Games][505games].
+Originally released for PC, after one year it is released to the consoles as `Redout: Lightspeed edition`.
 
 
 ````{panels}
@@ -48,7 +48,8 @@ According to the official webpage, *Redout is a tribute to the old racing monste
 
 |General Information||
 |:-------|-----|
-|Available on | Microsoft Windows, PlayStation 4, Xbox One, Nintendo Switch|
+|Available on | PlayStation 4, Xbox One, Nintendo Switch|
+|Game engine | Unreal 4 |
 |Reviewed on | Nintendo Switch |
 |First release| |
 |Multi-player| No |
